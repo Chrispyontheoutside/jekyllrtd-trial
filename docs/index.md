@@ -4,7 +4,7 @@ title: Index
 nav_exclude: true
 ---
 
-# Read The Docs Theme for Jekyll and GitHub Pages
+# Welcome to the High Performance Research Computing @ Texas A&M University Wiki
 
 This is a port of the
 [Read The Docs](https://sphinx-rtd-theme.readthedocs.io) theme to
