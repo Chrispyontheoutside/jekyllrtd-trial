@@ -4,7 +4,7 @@ title: Index
 nav_exclude: true
 ---
 ![HPRC Banner](https://hprc.tamu.edu/w/images/9/93/Hprc_banner_tamu.png)
-# Welcome to the High Performance Research Computing @ Texas A&M University Wiki
+# Welcome to the TAMU HPRC Wiki
 
 This is a port of the
 [Read The Docs](https://sphinx-rtd-theme.readthedocs.io) theme to
@@ -13,7 +13,6 @@ This is a port of the
 You are previewing the theme right now, as you navigate
 [this documentation](https://carlosperate.github.io/jekyll-theme-rtd):
 
-![screenshot](assets/img/screenshot.png)
 
 The original [Read The Docs](https://readthedocs.org)
 [theme]((https://sphinx-rtd-theme.readthedocs.io)) was created for the
