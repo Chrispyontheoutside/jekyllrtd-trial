@@ -3,7 +3,7 @@ layout: default
 title: Index
 nav_exclude: true
 ---
-
+!HPRC Banner](https://hprc.tamu.edu/w/images/9/93/Hprc_banner_tamu.png)
 # Welcome to the High Performance Research Computing @ Texas A&M University Wiki
 
 This is a port of the
